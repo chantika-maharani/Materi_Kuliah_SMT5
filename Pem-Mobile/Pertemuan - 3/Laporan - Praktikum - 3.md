@@ -220,4 +220,4 @@ Langkah 11 : Membuat StyleSheet untuk Styling Terpusat
 
 BUKTI APLIKASI SUDAH JADI
 
-![alt text](cv.gif)
+![alt text](cv_chantika.gif)
