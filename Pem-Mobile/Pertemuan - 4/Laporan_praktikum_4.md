@@ -63,6 +63,8 @@ Langkah 3 : Konfigurasi Tab di App.js
 
 ![alt text](image-5.png)
 
+![alt text](gif3.gif)
+
 
 ## PRAKTIKUM 3: Drawer Navigation
 
